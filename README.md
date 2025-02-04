@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Scientist Projects:</h2>
 
 - <b>SQL Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AirBNB Project](https://github.com/miltonclary/AirBNB-Project)
 - <b>Power BI Projects:</b>
   - [AdventureWorks Dashboard](https://github.com/miltonclary/PowerBI)
 - <b>Python Projects</b>
